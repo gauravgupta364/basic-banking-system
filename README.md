@@ -1,2 +1,6 @@
 # Basicbankingsystem
-=>Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers.  => No Login Page. No User Creation. Only transfer of money between multiple users.
+hi this is Gaurav Gupta. i entitled this project to Sparks Foundation.
+i acknowledge all my knowledge of HTML, CSS , javaScript to this projetc.
+
+here is my credintial :
+Website link : https://sparksprogramme.000webhostapp.com/customer.html
